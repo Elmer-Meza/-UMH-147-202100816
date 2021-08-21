@@ -9,7 +9,7 @@
            border-radius: 10px;
            border-color: white;
            border-style: solid;
-           padding: auto;
+           overflow: auto;
          }
          .menu{
            fill: 1px 15px 15px 1px;
@@ -25,7 +25,7 @@
            margin: 5px 5px 5px 5px ;
            border-color: #e0e0e0;
            background-color:  #F5F5F5;
-           padding: auto;
+           overflow: auto;
          }
          .item{
           margin: 8px 8px 8px 8px;
